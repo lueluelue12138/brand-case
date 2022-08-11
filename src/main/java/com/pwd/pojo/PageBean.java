@@ -1,4 +1,4 @@
-package com.itheima.pojo;
+package com.pwd.pojo;
 
 import java.util.List;
 

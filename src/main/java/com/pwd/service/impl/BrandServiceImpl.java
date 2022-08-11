@@ -1,11 +1,11 @@
-package com.itheima.service.impl;
+package com.pwd.service.impl;
 
-import com.itheima.mapper.BrandMapper;
-import com.itheima.pojo.Brand;
-import com.itheima.pojo.PageBean;
-import com.itheima.service.BrandService;
+import com.pwd.mapper.BrandMapper;
+import com.pwd.pojo.Brand;
+import com.pwd.pojo.PageBean;
+import com.pwd.service.BrandService;
 
-import com.itheima.util.SqlSessionFactoryUtils;
+import com.pwd.util.SqlSessionFactoryUtils;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 

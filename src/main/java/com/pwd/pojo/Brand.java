@@ -1,4 +1,4 @@
-package com.itheima.pojo;
+package com.pwd.pojo;
 
 public class Brand {
     // id 主键

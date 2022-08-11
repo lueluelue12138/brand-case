@@ -1,4 +1,4 @@
-package com.itheima.web.servlet;
+package com.pwd.web.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

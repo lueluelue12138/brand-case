@@ -1,11 +1,8 @@
-package com.itheima.service;
+package com.pwd.service;
 
-import com.itheima.pojo.Brand;
-import com.itheima.pojo.PageBean;
-import org.apache.ibatis.annotations.Delete;
+import com.pwd.pojo.Brand;
+import com.pwd.pojo.PageBean;
 import org.apache.ibatis.annotations.Param;
-import org.apache.ibatis.annotations.ResultMap;
-import org.apache.ibatis.annotations.Select;
 
 import java.util.List;
 

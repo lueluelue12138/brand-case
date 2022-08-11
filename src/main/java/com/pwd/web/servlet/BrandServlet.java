@@ -1,10 +1,10 @@
-package com.itheima.web.servlet;
+package com.pwd.web.servlet;
 
 import com.alibaba.fastjson.JSON;
-import com.itheima.pojo.Brand;
-import com.itheima.pojo.PageBean;
-import com.itheima.service.BrandService;
-import com.itheima.service.impl.BrandServiceImpl;
+import com.pwd.pojo.Brand;
+import com.pwd.pojo.PageBean;
+import com.pwd.service.BrandService;
+import com.pwd.service.impl.BrandServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

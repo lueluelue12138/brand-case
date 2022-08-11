@@ -1,6 +1,6 @@
-package com.itheima.mapper;
+package com.pwd.mapper;
 
-import com.itheima.pojo.Brand;
+import com.pwd.pojo.Brand;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;
