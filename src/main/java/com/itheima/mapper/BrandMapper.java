@@ -46,6 +46,8 @@ public interface BrandMapper {
     @ResultMap("brandResultMap")
     Brand selectById(int id);
 
+    @Select("select * from tb_brand")
+    void test();
 
 
 }
